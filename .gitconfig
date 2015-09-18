@@ -11,8 +11,6 @@
 	required = true
 [log]
 	date = local
-[init]
-	templatedir = ~/.git_template
 [filter "lfs"]
 	clean = git lfs clean %f
 	smudge = git lfs smudge %f
