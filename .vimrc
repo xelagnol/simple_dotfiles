@@ -55,9 +55,6 @@ Bundle 'scrooloose/syntastic'
 " Directory navigation in vim
 Bundle 'scrooloose/nerdtree'
 
-" Literate coffee script syntax highlighting
-Bundle 'mintplant/vim-literate-coffeescript'
-
 Bundle 'vim-scripts/vim-auto-save'
 
 """" END VIM PLUGINS
